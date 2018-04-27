@@ -1,0 +1,11 @@
+D:\develop\asp.net\core1.1-01\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\NetCore11-01.deps.json
+D:\develop\asp.net\core1.1-01\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\NetCore11-01.runtimeconfig.json
+D:\develop\asp.net\core1.1-01\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\NetCore11-01.runtimeconfig.dev.json
+D:\develop\asp.net\core1.1-01\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\NetCore11-01.dll
+D:\develop\asp.net\core1.1-01\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\NetCore11-01.csprojResolveAssemblyReference.cache
+D:\develop\asp.net\core1.1-01\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\NetCore11-01.csproj.CoreCompileInputs.cache
+D:\develop\asp.net\core1.1-01\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\NetCore11-01.AssemblyInfoInputs.cache
+D:\develop\asp.net\core1.1-01\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\NetCore11-01.AssemblyInfo.cs
+D:\develop\asp.net\core1.1-01\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\NetCore11-01.pdb
+D:\develop\asp.net\core1.1-01\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\NetCore11-01.dll
+D:\develop\asp.net\core1.1-01\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\NetCore11-01.pdb
